@@ -1,0 +1,7 @@
+C:\projects\guia-programador-C#\Projeto3\Projeto3\bin\Debug\Projeto3.exe.config
+C:\projects\guia-programador-C#\Projeto3\Projeto3\bin\Debug\Projeto3.exe
+C:\projects\guia-programador-C#\Projeto3\Projeto3\bin\Debug\Projeto3.pdb
+C:\projects\guia-programador-C#\Projeto3\Projeto3\obj\Debug\Projeto3.csprojAssemblyReference.cache
+C:\projects\guia-programador-C#\Projeto3\Projeto3\obj\Debug\Projeto3.csproj.CoreCompileInputs.cache
+C:\projects\guia-programador-C#\Projeto3\Projeto3\obj\Debug\Projeto3.exe
+C:\projects\guia-programador-C#\Projeto3\Projeto3\obj\Debug\Projeto3.pdb
